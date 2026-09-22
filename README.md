@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏅 DEV.to Badges
+### 🏅 Badges
 
 <p align="left">
   <a href="https://dev.to/simpled1" target="_blank" rel="noopener noreferrer">
