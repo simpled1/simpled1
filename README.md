@@ -36,27 +36,30 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- Certifications & Badges -->
+<!-- Certifications & Digital Credentials -->
 <div align="center">
-  <h3>Certifications & Digital Credentials</h3>
-  
+  <h2>Certifications & Digital Credentials</h2>
+
+  <!-- AWS Cloud Quest: Cloud Practitioner -->
   <a href="https://www.credly.com/badges/a1de0ce5-934d-42b9-81bc-21582732db40/public_url" target="_blank" rel="noopener noreferrer">
-    <!-- Replace src with the direct image address from Badge 1 -->
-    <img src="https://images.credly.com/images/YOUR-IMAGE-ID-1/image.png" width="130" height="130" alt="Credly Certification Badge 1" />
+    <img src="https://images.credly.com/size/220x220/images/0dc89ffa-b235-4298-93f9-e152b06a5166/blob" width="130" height="130" alt="AWS Cloud Quest: Cloud Practitioner" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Credential Badge 2 -->
   <a href="https://www.credly.com/badges/7f9f0db8-52ac-4f61-bf30-7e68c9dd22b0/public_url" target="_blank" rel="noopener noreferrer">
-    <!-- Replace src with the direct image address from Badge 2 -->
-    <img src="https://images.credly.com/images/YOUR-IMAGE-ID-2/image.png" width="130" height="130" alt="Credly Certification Badge 2" />
+    <img src="https://images.credly.com/size/220x220/images/3c923d13-42da-4765-995d-59f3030e042a/blob" width="130" height="130" alt="Credential Badge" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Credential Badge 3 -->
   <a href="https://www.credly.com/badges/4c718854-e3d5-4809-a0da-7ac82328ab27/public_url" target="_blank" rel="noopener noreferrer">
-    <!-- Replace src with the direct image address from Badge 3 -->
-    <img src="https://images.credly.com/images/YOUR-IMAGE-ID-3/image.png" width="130" height="130" alt="Credly Certification Badge 3" />
+    <img src="https://images.credly.com/size/220x220/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="130" height="130" alt="Credential Badge" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Orchestrate Multi-agent Workflows with Gemini Enterprise -->
   <a href="https://www.credly.com/badges/6a729936-7e0a-4445-a636-9b6cd9f3a19a/public_url" target="_blank" rel="noopener noreferrer">
-    <!-- Replace src with the direct image address from Badge 4 (Multi-agent Workflows with Gemini Enterprise) -->
-    <img src="https://images.credly.com/images/YOUR-IMAGE-ID-4/image.png" width="130" height="130" alt="Orchestrate Multi-agent Workflows with Gemini Enterprise" />
+    <img src="https://images.credly.com/size/220x220/images/951db2d7-4997-4b2a-89de-1a1297236e77/blob" width="130" height="130" alt="Orchestrate Multi-agent Workflows with Gemini Enterprise" />
   </a>
 </div>
